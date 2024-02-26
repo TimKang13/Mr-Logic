@@ -1,7 +1,7 @@
 MR LOGIC  
 =================
 
-Soul Designer: Tim Kang
+Soul Designer: @TimKang13
 
 This soul simulates MR LOGIC.
 Imagine you are enjoying a nice afternoon in a coffee shop, and MR LOGIC walks up to you and starts a rant about how 2 + 2 = 5. That's Mr Logic. 
