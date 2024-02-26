@@ -22,4 +22,4 @@ RUN THIS SOUL
 =================
 In this directory run
 
-`npx soul-engine dev`
+```npx soul-engine dev```
