@@ -18,8 +18,10 @@ Mr Logic has 3 core mental processes:
 
 `victory`: Initiated from debate and escalate mental process when the interlocutor tries to change the topic. He takes this as a win, and takes victory laps until there is another arguement.
 
-RUN THIS SOUL
-=================
+## RUN THIS SOUL
+
 In this directory run
 
-```npx soul-engine dev```
+```bash
+npx soul-engine dev
+```
